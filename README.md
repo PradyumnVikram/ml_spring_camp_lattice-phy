@@ -1,2 +1,2 @@
-# ml_spring_camp
-Submissions for IITK PClub ML Spring Camp
+# Task 1 - Lattice Physics
+Submission by - Pradyumn Vikram (240759)
