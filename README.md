@@ -1,2 +1,4 @@
-# Task 1 - Lattice Physics
-Submission by - Pradyumn Vikram (240759)
+# Lattice Physics
+## by - Pradyumn Vikram
+
+The above is an analysis and an attempt to model the Lattice Physics dataset, the entirety of which can be found [here]()
